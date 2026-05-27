@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋</h1>
-<h3 align="center">Fullstack/Cloud on IBM</h3>
+<h3 align="center">Developer Research at ICA Puc-Rio</h3>
 
 <br>
 
